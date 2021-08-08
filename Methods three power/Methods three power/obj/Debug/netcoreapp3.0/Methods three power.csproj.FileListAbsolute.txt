@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.exe
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.deps.json
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.runtimeconfig.json
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.dll
+C:\Users\ACER\source\repos\Methods three power\Methods three power\bin\Debug\netcoreapp3.0\Methods three power.pdb
+C:\Users\ACER\source\repos\Methods three power\Methods three power\obj\Debug\netcoreapp3.0\Methods three power.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Methods three power\Methods three power\obj\Debug\netcoreapp3.0\Methods three power.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Methods three power\Methods three power\obj\Debug\netcoreapp3.0\Methods three power.dll
+C:\Users\ACER\source\repos\Methods three power\Methods three power\obj\Debug\netcoreapp3.0\Methods three power.pdb
+C:\Users\ACER\source\repos\Methods three power\Methods three power\obj\Debug\netcoreapp3.0\Methods three power.csprojAssemblyReference.cache
