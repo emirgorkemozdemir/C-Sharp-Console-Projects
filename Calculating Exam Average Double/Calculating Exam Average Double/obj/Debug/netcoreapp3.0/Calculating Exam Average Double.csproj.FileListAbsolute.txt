@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.exe
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.deps.json
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.runtimeconfig.json
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.dll
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\bin\Debug\netcoreapp3.0\Calculating Exam Average Double.pdb
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\obj\Debug\netcoreapp3.0\Calculating Exam Average Double.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\obj\Debug\netcoreapp3.0\Calculating Exam Average Double.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\obj\Debug\netcoreapp3.0\Calculating Exam Average Double.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\obj\Debug\netcoreapp3.0\Calculating Exam Average Double.dll
+C:\Users\ACER\source\repos\Calculating Exam Average Double\Calculating Exam Average Double\obj\Debug\netcoreapp3.0\Calculating Exam Average Double.pdb

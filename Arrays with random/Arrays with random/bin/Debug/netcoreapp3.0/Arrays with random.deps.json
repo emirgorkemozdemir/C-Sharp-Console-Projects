@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Arrays with random/1.0.0": {
+        "runtime": {
+          "Arrays with random.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays with random/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

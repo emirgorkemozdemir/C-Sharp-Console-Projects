@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.exe
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.deps.json
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.runtimeconfig.json
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.dll
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\bin\Debug\netcoreapp3.0\Arrays with random.pdb
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\obj\Debug\netcoreapp3.0\Arrays with random.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\obj\Debug\netcoreapp3.0\Arrays with random.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\obj\Debug\netcoreapp3.0\Arrays with random.dll
+C:\Users\ACER\source\repos\Arrays with random\Arrays with random\obj\Debug\netcoreapp3.0\Arrays with random.pdb
