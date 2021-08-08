@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Getting value matrisis/1.0.0": {
+        "runtime": {
+          "Getting value matrisis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Getting value matrisis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

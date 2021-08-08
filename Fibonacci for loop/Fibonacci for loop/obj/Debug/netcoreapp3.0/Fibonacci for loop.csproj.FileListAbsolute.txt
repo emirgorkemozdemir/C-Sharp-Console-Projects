@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.exe
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.deps.json
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.runtimeconfig.json
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.dll
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\bin\Debug\netcoreapp3.0\Fibonacci for loop.pdb
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\obj\Debug\netcoreapp3.0\Fibonacci for loop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\obj\Debug\netcoreapp3.0\Fibonacci for loop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\obj\Debug\netcoreapp3.0\Fibonacci for loop.dll
+C:\Users\ACER\source\repos\Fibonacci for loop\Fibonacci for loop\obj\Debug\netcoreapp3.0\Fibonacci for loop.pdb

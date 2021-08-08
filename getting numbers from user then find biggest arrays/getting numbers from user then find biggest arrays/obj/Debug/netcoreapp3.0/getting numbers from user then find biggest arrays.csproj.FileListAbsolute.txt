@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.exe
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.deps.json
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.runtimeconfig.json
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.dll
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\bin\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.pdb
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\obj\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\obj\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.AssemblyInfo.cs
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\obj\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.dll
+C:\Users\ACER\source\repos\getting numbers from user then find biggest arrays\getting numbers from user then find biggest arrays\obj\Debug\netcoreapp3.0\getting numbers from user then find biggest arrays.pdb

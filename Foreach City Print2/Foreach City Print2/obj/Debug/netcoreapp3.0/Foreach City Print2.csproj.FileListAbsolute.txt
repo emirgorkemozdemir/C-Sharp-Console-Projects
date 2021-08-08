@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.exe
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.deps.json
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.runtimeconfig.json
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.dll
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\bin\Debug\netcoreapp3.0\Foreach City Print2.pdb
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\obj\Debug\netcoreapp3.0\Foreach City Print2.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\obj\Debug\netcoreapp3.0\Foreach City Print2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\obj\Debug\netcoreapp3.0\Foreach City Print2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\obj\Debug\netcoreapp3.0\Foreach City Print2.dll
+C:\Users\ACER\source\repos\Foreach City Print2\Foreach City Print2\obj\Debug\netcoreapp3.0\Foreach City Print2.pdb

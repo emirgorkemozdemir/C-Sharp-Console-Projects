@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>getting_numbers_from_user_then_find_biggest_arrays</RootNamespace>
+  </PropertyGroup>
+
+</Project>

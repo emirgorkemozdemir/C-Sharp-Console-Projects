@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "getting numbers from user then find biggest arrays/1.0.0": {
+        "runtime": {
+          "getting numbers from user then find biggest arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "getting numbers from user then find biggest arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

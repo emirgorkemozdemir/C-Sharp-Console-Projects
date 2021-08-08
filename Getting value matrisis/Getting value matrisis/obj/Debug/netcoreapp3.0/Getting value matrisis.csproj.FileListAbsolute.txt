@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.exe
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.deps.json
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.runtimeconfig.json
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.dll
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\bin\Debug\netcoreapp3.0\Getting value matrisis.pdb
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\obj\Debug\netcoreapp3.0\Getting value matrisis.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\obj\Debug\netcoreapp3.0\Getting value matrisis.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\obj\Debug\netcoreapp3.0\Getting value matrisis.dll
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\obj\Debug\netcoreapp3.0\Getting value matrisis.pdb
+C:\Users\ACER\source\repos\Getting value matrisis\Getting value matrisis\obj\Debug\netcoreapp3.0\Getting value matrisis.csprojAssemblyReference.cache
