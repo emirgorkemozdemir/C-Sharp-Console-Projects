@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Decimal plus int/1.0.0": {
+        "runtime": {
+          "Decimal plus int.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decimal plus int/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

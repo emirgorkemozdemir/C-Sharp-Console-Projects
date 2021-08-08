@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.exe
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.deps.json
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.runtimeconfig.json
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.dll
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\bin\Debug\netcoreapp3.0\Decimal money c.pdb
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\obj\Debug\netcoreapp3.0\Decimal money c.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\obj\Debug\netcoreapp3.0\Decimal money c.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\obj\Debug\netcoreapp3.0\Decimal money c.dll
+C:\Users\ACER\source\repos\Decimal money c\Decimal money c\obj\Debug\netcoreapp3.0\Decimal money c.pdb

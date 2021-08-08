@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.exe
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.deps.json
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.runtimeconfig.json
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.dll
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\bin\Debug\netcoreapp3.0\Date Time Functions.pdb
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\obj\Debug\netcoreapp3.0\Date Time Functions.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\obj\Debug\netcoreapp3.0\Date Time Functions.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\obj\Debug\netcoreapp3.0\Date Time Functions.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\obj\Debug\netcoreapp3.0\Date Time Functions.dll
+C:\Users\ACER\source\repos\Date Time Functions\Date Time Functions\obj\Debug\netcoreapp3.0\Date Time Functions.pdb

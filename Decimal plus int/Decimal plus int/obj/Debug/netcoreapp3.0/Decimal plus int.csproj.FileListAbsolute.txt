@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.exe
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.deps.json
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.runtimeconfig.json
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.dll
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\bin\Debug\netcoreapp3.0\Decimal plus int.pdb
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\obj\Debug\netcoreapp3.0\Decimal plus int.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\obj\Debug\netcoreapp3.0\Decimal plus int.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\obj\Debug\netcoreapp3.0\Decimal plus int.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\obj\Debug\netcoreapp3.0\Decimal plus int.dll
+C:\Users\ACER\source\repos\Decimal plus int\Decimal plus int\obj\Debug\netcoreapp3.0\Decimal plus int.pdb
