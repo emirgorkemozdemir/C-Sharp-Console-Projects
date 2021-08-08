@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.exe
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.deps.json
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.runtimeconfig.json
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.dll
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\bin\Debug\netcoreapp3.0\Print arrays first index.pdb
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\obj\Debug\netcoreapp3.0\Print arrays first index.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\obj\Debug\netcoreapp3.0\Print arrays first index.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\obj\Debug\netcoreapp3.0\Print arrays first index.dll
+C:\Users\ACER\source\repos\Print arrays first index\Print arrays first index\obj\Debug\netcoreapp3.0\Print arrays first index.pdb

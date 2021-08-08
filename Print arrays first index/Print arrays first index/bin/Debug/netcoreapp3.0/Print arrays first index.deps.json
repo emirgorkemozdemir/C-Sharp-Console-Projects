@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Print arrays first index/1.0.0": {
+        "runtime": {
+          "Print arrays first index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print arrays first index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

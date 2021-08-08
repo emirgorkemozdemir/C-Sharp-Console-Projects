@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.exe
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.deps.json
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.runtimeconfig.json
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.dll
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\bin\Debug\netcoreapp3.0\Print cities arrays.pdb
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\obj\Debug\netcoreapp3.0\Print cities arrays.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\obj\Debug\netcoreapp3.0\Print cities arrays.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\obj\Debug\netcoreapp3.0\Print cities arrays.dll
+C:\Users\ACER\source\repos\Print cities arrays\Print cities arrays\obj\Debug\netcoreapp3.0\Print cities arrays.pdb

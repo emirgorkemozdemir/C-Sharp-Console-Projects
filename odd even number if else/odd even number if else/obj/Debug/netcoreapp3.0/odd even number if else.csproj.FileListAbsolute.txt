@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.exe
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.deps.json
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.runtimeconfig.json
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.dll
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\bin\Debug\netcoreapp3.0\odd even number if else.pdb
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\obj\Debug\netcoreapp3.0\odd even number if else.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\obj\Debug\netcoreapp3.0\odd even number if else.AssemblyInfo.cs
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\obj\Debug\netcoreapp3.0\odd even number if else.dll
+C:\Users\ACER\source\repos\odd even number if else\odd even number if else\obj\Debug\netcoreapp3.0\odd even number if else.pdb

@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.exe
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.deps.json
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.runtimeconfig.json
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.dll
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\bin\Debug\netcoreapp3.0\Negative Pozitive else if.pdb
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\obj\Debug\netcoreapp3.0\Negative Pozitive else if.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\obj\Debug\netcoreapp3.0\Negative Pozitive else if.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\obj\Debug\netcoreapp3.0\Negative Pozitive else if.dll
+C:\Users\ACER\source\repos\Negative Pozitive else if\Negative Pozitive else if\obj\Debug\netcoreapp3.0\Negative Pozitive else if.pdb
