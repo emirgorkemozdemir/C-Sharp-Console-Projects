@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UNTİL PRESS ODD NUM WHİLE/1.0.0": {
+        "runtime": {
+          "UNTİL PRESS ODD NUM WHİLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UNTİL PRESS ODD NUM WHİLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

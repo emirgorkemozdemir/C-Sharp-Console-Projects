@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.exe
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.deps.json
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.runtimeconfig.json
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.dll
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\bin\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.pdb
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\obj\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\obj\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.AssemblyInfo.cs
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\obj\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.dll
+C:\Users\ACER\source\repos\UNTİL PRESS ODD NUM WHİLE\UNTİL PRESS ODD NUM WHİLE\obj\Debug\netcoreapp3.0\UNTİL PRESS ODD NUM WHİLE.pdb
