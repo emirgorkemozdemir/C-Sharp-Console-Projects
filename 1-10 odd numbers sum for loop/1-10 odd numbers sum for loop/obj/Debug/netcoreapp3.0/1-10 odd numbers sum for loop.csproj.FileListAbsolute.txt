@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.exe
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.deps.json
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.runtimeconfig.json
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.dll
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\bin\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.pdb
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\obj\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\obj\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\obj\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.dll
+C:\Users\ACER\source\repos\1-10 odd numbers sum for loop\1-10 odd numbers sum for loop\obj\Debug\netcoreapp3.0\1-10 odd numbers sum for loop.pdb
