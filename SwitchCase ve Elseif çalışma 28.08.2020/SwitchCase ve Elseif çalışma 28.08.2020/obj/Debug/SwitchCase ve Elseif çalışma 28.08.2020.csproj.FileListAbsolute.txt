@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\bin\Debug\SwitchCase ve Elseif çalışma 28.08.2020.exe.config
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\bin\Debug\SwitchCase ve Elseif çalışma 28.08.2020.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\bin\Debug\SwitchCase ve Elseif çalışma 28.08.2020.pdb
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\obj\Debug\SwitchCase ve Elseif çalışma 28.08.2020.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\obj\Debug\SwitchCase ve Elseif çalışma 28.08.2020.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\obj\Debug\SwitchCase ve Elseif çalışma 28.08.2020.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\SwitchCase ve Elseif çalışma 28.08.2020\obj\Debug\SwitchCase ve Elseif çalışma 28.08.2020.pdb

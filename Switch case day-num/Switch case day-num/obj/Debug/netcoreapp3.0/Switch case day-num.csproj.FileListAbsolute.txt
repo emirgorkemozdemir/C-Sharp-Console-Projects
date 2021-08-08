@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.exe
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.deps.json
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.runtimeconfig.json
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.dll
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\bin\Debug\netcoreapp3.0\Switch case day-num.pdb
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\obj\Debug\netcoreapp3.0\Switch case day-num.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\obj\Debug\netcoreapp3.0\Switch case day-num.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\obj\Debug\netcoreapp3.0\Switch case day-num.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\obj\Debug\netcoreapp3.0\Switch case day-num.dll
+C:\Users\ACER\source\repos\Switch case day-num\Switch case day-num\obj\Debug\netcoreapp3.0\Switch case day-num.pdb

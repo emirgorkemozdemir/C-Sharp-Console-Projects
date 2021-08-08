@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\bin\Debug\IFELSE.exe.config
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\bin\Debug\IFELSE.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\bin\Debug\IFELSE.pdb
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\obj\Debug\IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\obj\Debug\IFELSE.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\IFELSE\obj\Debug\IFELSE.pdb

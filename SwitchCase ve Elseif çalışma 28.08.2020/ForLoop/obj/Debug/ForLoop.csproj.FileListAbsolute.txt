@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\ACER\source\repos\SwitchCase ve Elseif çalışma 28.08.2020\ForLoop\obj\Debug\ForLoop.pdb
