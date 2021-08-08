@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.exe
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.deps.json
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.runtimeconfig.json
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.dll
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\bin\Debug\netcoreapp3.1\Matris Toplam Console.pdb
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\obj\Debug\netcoreapp3.1\Matris Toplam Console.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\obj\Debug\netcoreapp3.1\Matris Toplam Console.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\obj\Debug\netcoreapp3.1\Matris Toplam Console.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\obj\Debug\netcoreapp3.1\Matris Toplam Console.dll
+C:\Users\ACER\source\repos\Matris Toplam Console\Matris Toplam Console\obj\Debug\netcoreapp3.1\Matris Toplam Console.pdb

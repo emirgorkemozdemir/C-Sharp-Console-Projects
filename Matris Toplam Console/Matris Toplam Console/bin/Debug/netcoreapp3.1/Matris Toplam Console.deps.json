@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matris Toplam Console/1.0.0": {
+        "runtime": {
+          "Matris Toplam Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matris Toplam Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

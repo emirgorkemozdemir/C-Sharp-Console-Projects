@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.exe
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.deps.json
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.runtimeconfig.json
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.dll
+C:\Users\ACER\source\repos\Name control if else\Name control if else\bin\Debug\netcoreapp3.0\Name control if else.pdb
+C:\Users\ACER\source\repos\Name control if else\Name control if else\obj\Debug\netcoreapp3.0\Name control if else.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Name control if else\Name control if else\obj\Debug\netcoreapp3.0\Name control if else.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Name control if else\Name control if else\obj\Debug\netcoreapp3.0\Name control if else.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Name control if else\Name control if else\obj\Debug\netcoreapp3.0\Name control if else.dll
+C:\Users\ACER\source\repos\Name control if else\Name control if else\obj\Debug\netcoreapp3.0\Name control if else.pdb

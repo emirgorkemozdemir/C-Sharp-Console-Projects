@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Mehods summing 2 nums/1.0.0": {
+        "runtime": {
+          "Mehods summing 2 nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mehods summing 2 nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

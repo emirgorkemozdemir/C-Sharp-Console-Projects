@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\obj\Debug\netcoreapp3.0\name surname city asking program.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\obj\Debug\netcoreapp3.0\name surname city asking program.AssemblyInfo.cs
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.exe
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.deps.json
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.runtimeconfig.json
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.dll
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\bin\Debug\netcoreapp3.0\name surname city asking program.pdb
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\obj\Debug\netcoreapp3.0\name surname city asking program.dll
+C:\Users\ACER\source\repos\name surname city asking program\name surname city asking program\obj\Debug\netcoreapp3.0\name surname city asking program.pdb

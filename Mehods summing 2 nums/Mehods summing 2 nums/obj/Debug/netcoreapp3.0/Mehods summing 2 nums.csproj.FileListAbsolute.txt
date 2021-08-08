@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.exe
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.deps.json
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.runtimeconfig.json
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.dll
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\bin\Debug\netcoreapp3.0\Mehods summing 2 nums.pdb
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\obj\Debug\netcoreapp3.0\Mehods summing 2 nums.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\obj\Debug\netcoreapp3.0\Mehods summing 2 nums.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\obj\Debug\netcoreapp3.0\Mehods summing 2 nums.dll
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\obj\Debug\netcoreapp3.0\Mehods summing 2 nums.pdb
+C:\Users\ACER\source\repos\Mehods summing 2 nums\Mehods summing 2 nums\obj\Debug\netcoreapp3.0\Mehods summing 2 nums.csprojAssemblyReference.cache
