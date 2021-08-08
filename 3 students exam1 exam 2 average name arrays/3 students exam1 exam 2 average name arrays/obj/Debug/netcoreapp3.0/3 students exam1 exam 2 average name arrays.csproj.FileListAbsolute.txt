@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.exe
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.deps.json
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.runtimeconfig.json
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.dll
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\bin\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.pdb
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\obj\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\obj\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\obj\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.AssemblyInfo.cs
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\obj\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.dll
+C:\Users\ACER\source\repos\3 students exam1 exam 2 average name arrays\3 students exam1 exam 2 average name arrays\obj\Debug\netcoreapp3.0\3 students exam1 exam 2 average name arrays.pdb

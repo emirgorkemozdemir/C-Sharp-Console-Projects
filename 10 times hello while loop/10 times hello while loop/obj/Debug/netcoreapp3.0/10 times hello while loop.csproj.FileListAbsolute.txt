@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\obj\Debug\netcoreapp3.0\10 times hello while loop.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\obj\Debug\netcoreapp3.0\10 times hello while loop.AssemblyInfo.cs
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.exe
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.deps.json
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.runtimeconfig.json
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.dll
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\bin\Debug\netcoreapp3.0\10 times hello while loop.pdb
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\obj\Debug\netcoreapp3.0\10 times hello while loop.dll
+C:\Users\ACER\source\repos\10 times hello while loop\10 times hello while loop\obj\Debug\netcoreapp3.0\10 times hello while loop.pdb

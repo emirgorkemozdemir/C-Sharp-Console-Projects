@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "3 students exam1 exam 2 average name arrays/1.0.0": {
+        "runtime": {
+          "3 students exam1 exam 2 average name arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3 students exam1 exam 2 average name arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
