@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Rakamlar mod 2 array foreach/1.0.0": {
+        "runtime": {
+          "Rakamlar mod 2 array foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rakamlar mod 2 array foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

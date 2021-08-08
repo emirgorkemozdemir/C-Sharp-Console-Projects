@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.exe
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.deps.json
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.runtimeconfig.json
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.dll
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\bin\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.pdb
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\obj\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\obj\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\obj\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.dll
+C:\Users\ACER\source\repos\Rakamlar mod 2 array foreach\Rakamlar mod 2 array foreach\obj\Debug\netcoreapp3.0\Rakamlar mod 2 array foreach.pdb

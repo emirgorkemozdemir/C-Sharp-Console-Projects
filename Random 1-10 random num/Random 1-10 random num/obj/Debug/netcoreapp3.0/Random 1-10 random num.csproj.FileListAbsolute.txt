@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.exe
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.deps.json
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.runtimeconfig.json
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.dll
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\bin\Debug\netcoreapp3.0\Random 1-10 random num.pdb
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\obj\Debug\netcoreapp3.0\Random 1-10 random num.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\obj\Debug\netcoreapp3.0\Random 1-10 random num.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\obj\Debug\netcoreapp3.0\Random 1-10 random num.dll
+C:\Users\ACER\source\repos\Random 1-10 random num\Random 1-10 random num\obj\Debug\netcoreapp3.0\Random 1-10 random num.pdb

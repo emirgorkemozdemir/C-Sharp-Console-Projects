@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.exe
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.deps.json
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.runtimeconfig.json
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.dll
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\bin\Debug\netcoreapp3.0\Printing 2x2 Matris.pdb
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\obj\Debug\netcoreapp3.0\Printing 2x2 Matris.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\obj\Debug\netcoreapp3.0\Printing 2x2 Matris.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\obj\Debug\netcoreapp3.0\Printing 2x2 Matris.dll
+C:\Users\ACER\source\repos\Printing 2x2 Matris\Printing 2x2 Matris\obj\Debug\netcoreapp3.0\Printing 2x2 Matris.pdb
