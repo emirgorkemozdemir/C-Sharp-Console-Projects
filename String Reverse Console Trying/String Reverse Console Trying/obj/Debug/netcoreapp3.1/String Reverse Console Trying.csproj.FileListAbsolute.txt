@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.exe
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.deps.json
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.runtimeconfig.json
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.dll
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\bin\Debug\netcoreapp3.1\String Reverse Console Trying.pdb
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\obj\Debug\netcoreapp3.1\String Reverse Console Trying.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\obj\Debug\netcoreapp3.1\String Reverse Console Trying.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\obj\Debug\netcoreapp3.1\String Reverse Console Trying.AssemblyInfo.cs
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\obj\Debug\netcoreapp3.1\String Reverse Console Trying.dll
+C:\Users\ACER\source\repos\String Reverse Console Trying\String Reverse Console Trying\obj\Debug\netcoreapp3.1\String Reverse Console Trying.pdb

@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.exe
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.deps.json
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.runtimeconfig.json
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.dll
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\bin\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.pdb
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\obj\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\obj\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\obj\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.dll
+C:\Users\ACER\source\repos\Summing 4x4 2 matrisis\Summing 4x4 2 matrisis\obj\Debug\netcoreapp3.0\Summing 4x4 2 matrisis.pdb

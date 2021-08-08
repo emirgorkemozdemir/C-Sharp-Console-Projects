@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.exe
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.deps.json
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.runtimeconfig.json
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.dll
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\bin\Debug\netcoreapp3.0\Student Situation else if.pdb
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\obj\Debug\netcoreapp3.0\Student Situation else if.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\obj\Debug\netcoreapp3.0\Student Situation else if.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\obj\Debug\netcoreapp3.0\Student Situation else if.dll
+C:\Users\ACER\source\repos\Student Situation else if\Student Situation else if\obj\Debug\netcoreapp3.0\Student Situation else if.pdb

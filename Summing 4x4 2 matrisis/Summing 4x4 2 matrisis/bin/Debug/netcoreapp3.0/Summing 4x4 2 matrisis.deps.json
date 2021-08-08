@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Summing 4x4 2 matrisis/1.0.0": {
+        "runtime": {
+          "Summing 4x4 2 matrisis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Summing 4x4 2 matrisis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

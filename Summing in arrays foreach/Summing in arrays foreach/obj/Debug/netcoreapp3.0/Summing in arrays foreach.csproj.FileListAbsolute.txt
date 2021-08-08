@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.exe
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.deps.json
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.runtimeconfig.json
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.dll
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\bin\Debug\netcoreapp3.0\Summing in arrays foreach.pdb
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\obj\Debug\netcoreapp3.0\Summing in arrays foreach.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\obj\Debug\netcoreapp3.0\Summing in arrays foreach.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\obj\Debug\netcoreapp3.0\Summing in arrays foreach.dll
+C:\Users\ACER\source\repos\Summing in arrays foreach\Summing in arrays foreach\obj\Debug\netcoreapp3.0\Summing in arrays foreach.pdb
