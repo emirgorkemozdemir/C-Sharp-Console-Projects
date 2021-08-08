@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.exe
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.deps.json
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.runtimeconfig.json
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.dll
+C:\Users\ACER\source\repos\Square\Square\bin\Debug\netcoreapp3.0\Square.pdb
+C:\Users\ACER\source\repos\Square\Square\obj\Debug\netcoreapp3.0\Square.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Square\Square\obj\Debug\netcoreapp3.0\Square.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Square\Square\obj\Debug\netcoreapp3.0\Square.dll
+C:\Users\ACER\source\repos\Square\Square\obj\Debug\netcoreapp3.0\Square.pdb

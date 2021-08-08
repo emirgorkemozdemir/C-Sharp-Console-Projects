@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.exe
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.deps.json
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.runtimeconfig.json
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.dll
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\bin\Debug\netcoreapp3.0\Seasons if else.pdb
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\obj\Debug\netcoreapp3.0\Seasons if else.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\obj\Debug\netcoreapp3.0\Seasons if else.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\obj\Debug\netcoreapp3.0\Seasons if else.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\obj\Debug\netcoreapp3.0\Seasons if else.dll
+C:\Users\ACER\source\repos\Seasons if else\Seasons if else\obj\Debug\netcoreapp3.0\Seasons if else.pdb
